@@ -1,0 +1,9 @@
+JAVA_HOME="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home
+/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home"
+PATH="${JAVA_HOME}/bin:${PATH}"
+export PATH
+/Users/apache-maven-3.9.7
+
+export M2_HOME="/Users/amartya/apache-maven-3.9.7"
+PATH="${M2_HOME}/bin:${PATH}"
+export PATH
